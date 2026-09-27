@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, i'm carbon⁰⁶! 👋
+i'm a secondary school student situated in the UK who's interested in coding, mathematics and chromeOS vulnerabilities.
 
-<!--
-**faizbasha40k/faizbasha40k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**my interests**
+<li>web development</li>
+<li>chromeOS, chrome, and google bughunting</li>
+<li>cybersecurity</li>
+<li>mathematics</li>
+<li>skidding</li>
 
-Here are some ideas to get you started:
+![carbonicality's Stats](https://github-readme-stats.vercel.app/api?username=carbonicality&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![carbonicality's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonicality&theme=gotham&show_icons=true&hide_border=true&layout=compact)
